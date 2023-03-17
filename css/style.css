@@ -38,8 +38,8 @@ body{
 }
 
 #header.min .btn-primary{
-	background-color: #243c58;
-	border: 1px solid #243c58;
+	background-color: #314b72;
+    border: 1px solid #99b4bf;
 }
 
 .btn-primary, .btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active{
